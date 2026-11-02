@@ -1,0 +1,24 @@
+{
+  "createdIn": "FLAWEN STUDIO browser interface",
+  "images": [
+    {
+      "file": "15-session-finish.png",
+      "width": 1280,
+      "height": 720,
+      "title": "СЕССИЯ\nЗАВЕРШЕНА"
+    },
+    {
+      "file": "16-offer-results.png",
+      "width": 1280,
+      "height": 720,
+      "title": "РЕЗУЛЬТАТЫ\nОФФЕРА"
+    },
+    {
+      "file": "17-offer-generic.png",
+      "width": 1280,
+      "height": 720,
+      "title": "ОФФЕР"
+    }
+  ],
+  "errors": []
+}
