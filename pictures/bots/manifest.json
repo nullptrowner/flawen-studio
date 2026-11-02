@@ -1,0 +1,330 @@
+{
+  "createdIn": "FLAWEN STUDIO project import and UI export",
+  "images": [
+    {
+      "key": "sessions-home",
+      "width": 1280,
+      "height": 720,
+      "title": "СЕССИИ"
+    },
+    {
+      "key": "sessions-list",
+      "width": 1280,
+      "height": 720,
+      "title": "ШАБЛОНЫ"
+    },
+    {
+      "key": "sessions-archive",
+      "width": 1280,
+      "height": 720,
+      "title": "АРХИВ"
+    },
+    {
+      "key": "sessions-card",
+      "width": 1280,
+      "height": 720,
+      "title": "СЕССИЯ"
+    },
+    {
+      "key": "sessions-offers",
+      "width": 1280,
+      "height": 720,
+      "title": "ОФФЕРЫ"
+    },
+    {
+      "key": "sessions-offer",
+      "width": 1280,
+      "height": 720,
+      "title": "ОФФЕР"
+    },
+    {
+      "key": "sessions-destinations",
+      "width": 1280,
+      "height": 720,
+      "title": "ЧАТЫ И ТЕМЫ"
+    },
+    {
+      "key": "sessions-confirm",
+      "width": 1280,
+      "height": 720,
+      "title": "ПОДТВЕРЖДЕНИЕ"
+    },
+    {
+      "key": "sessions-jobs",
+      "width": 1280,
+      "height": 720,
+      "title": "ОТПРАВКИ"
+    },
+    {
+      "key": "sessions-job",
+      "width": 1280,
+      "height": 720,
+      "title": "ДОСТАВКА"
+    },
+    {
+      "key": "sessions-error",
+      "width": 1280,
+      "height": 720,
+      "title": "ПРОВЕРЬТЕ\nДАННЫЕ"
+    },
+    {
+      "key": "sessions-saved",
+      "width": 1280,
+      "height": 720,
+      "title": "СОХРАНЕНО"
+    },
+    {
+      "key": "sessions-pin",
+      "width": 1280,
+      "height": 720,
+      "title": "ЧАТ ПРИВЯЗАН"
+    },
+    {
+      "key": "content-home",
+      "width": 1280,
+      "height": 720,
+      "title": "КОНТЕНТ"
+    },
+    {
+      "key": "content-list",
+      "width": 1280,
+      "height": 720,
+      "title": "ПУБЛИКАЦИИ"
+    },
+    {
+      "key": "content-edit",
+      "width": 1280,
+      "height": 720,
+      "title": "РЕДАКТИРОВАНИЕ"
+    },
+    {
+      "key": "clone-home",
+      "width": 1280,
+      "height": 720,
+      "title": "CLONE"
+    },
+    {
+      "key": "clone-status",
+      "width": 1280,
+      "height": 720,
+      "title": "СИНХРОНИЗАЦИЯ"
+    },
+    {
+      "key": "clone-health",
+      "width": 1280,
+      "height": 720,
+      "title": "ДИАГНОСТИКА"
+    },
+    {
+      "key": "clone-failed",
+      "width": 1280,
+      "height": 720,
+      "title": "ОШИБКИ"
+    },
+    {
+      "key": "clone-retry",
+      "width": 1280,
+      "height": 720,
+      "title": "ВОССТАНОВЛЕНИЕ"
+    },
+    {
+      "key": "clone-topics",
+      "width": 1280,
+      "height": 720,
+      "title": "ТЕМЫ"
+    },
+    {
+      "key": "clone-report",
+      "width": 1280,
+      "height": 720,
+      "title": "ОТЧЁТ"
+    },
+    {
+      "key": "clone-resolve",
+      "width": 1280,
+      "height": 720,
+      "title": "СВЕРКА"
+    },
+    {
+      "key": "clone-delete",
+      "width": 1280,
+      "height": 720,
+      "title": "УДАЛЕНИЕ"
+    },
+    {
+      "key": "clone-metadata",
+      "width": 1280,
+      "height": 720,
+      "title": "МЕТАДАННЫЕ"
+    },
+    {
+      "key": "contact-partnership",
+      "width": 1280,
+      "height": 720,
+      "title": "ПАРТНЁРСТВО"
+    },
+    {
+      "key": "contact-advertising",
+      "width": 1280,
+      "height": 720,
+      "title": "РЕКЛАМА"
+    },
+    {
+      "key": "contact-career",
+      "width": 1280,
+      "height": 720,
+      "title": "КОМАНДА"
+    },
+    {
+      "key": "contact-general",
+      "width": 1280,
+      "height": 720,
+      "title": "ОБРАЩЕНИЕ"
+    },
+    {
+      "key": "step-chat",
+      "width": 1280,
+      "height": 720,
+      "title": "ПРИВЯЗКА ЧАТА"
+    },
+    {
+      "key": "step-network",
+      "width": 1280,
+      "height": 720,
+      "title": "СЕТЬ"
+    },
+    {
+      "key": "step-product",
+      "width": 1280,
+      "height": 720,
+      "title": "ПРОДУКТ"
+    },
+    {
+      "key": "step-source",
+      "width": 1280,
+      "height": 720,
+      "title": "ИСТОЧНИК"
+    },
+    {
+      "key": "step-buyingModel",
+      "width": 1280,
+      "height": 720,
+      "title": "МОДЕЛЬ ЗАКУПКИ"
+    },
+    {
+      "key": "step-payoutModel",
+      "width": 1280,
+      "height": 720,
+      "title": "МОДЕЛЬ ВЫПЛАТ"
+    },
+    {
+      "key": "step-amount",
+      "width": 1280,
+      "height": 720,
+      "title": "СУММА ОФФЕРА"
+    },
+    {
+      "key": "step-duration",
+      "width": 1280,
+      "height": 720,
+      "title": "ДЛИТЕЛЬНОСТЬ"
+    },
+    {
+      "key": "step-age",
+      "width": 1280,
+      "height": 720,
+      "title": "ВОЗРАСТ"
+    },
+    {
+      "key": "step-gender",
+      "width": 1280,
+      "height": 720,
+      "title": "АУДИТОРИЯ"
+    },
+    {
+      "key": "step-geo",
+      "width": 1280,
+      "height": 720,
+      "title": "ГЕОГРАФИЯ"
+    },
+    {
+      "key": "step-creativeMode",
+      "width": 1280,
+      "height": 720,
+      "title": "РЕЖИМ КРЕАТИВА"
+    },
+    {
+      "key": "step-link",
+      "width": 1280,
+      "height": 720,
+      "title": "ССЫЛКА"
+    },
+    {
+      "key": "step-creative",
+      "width": 1280,
+      "height": 720,
+      "title": "КРЕАТИВ"
+    },
+    {
+      "key": "step-name",
+      "width": 1280,
+      "height": 720,
+      "title": "НАЗВАНИЕ"
+    },
+    {
+      "key": "step-destination",
+      "width": 1280,
+      "height": 720,
+      "title": "НАЗНАЧЕНИЕ"
+    },
+    {
+      "key": "step-mode",
+      "width": 1280,
+      "height": 720,
+      "title": "РЕЖИМ СЕССИИ"
+    },
+    {
+      "key": "step-sequence",
+      "width": 1280,
+      "height": 720,
+      "title": "ПОРЯДОК ОФФЕРОВ"
+    },
+    {
+      "key": "step-at",
+      "width": 1280,
+      "height": 720,
+      "title": "РАСПИСАНИЕ"
+    },
+    {
+      "key": "step-ids",
+      "width": 1280,
+      "height": 720,
+      "title": "СВЕРКА ДОСТАВКИ"
+    },
+    {
+      "key": "avatar-sessions",
+      "width": 512,
+      "height": 512,
+      "title": "sessions"
+    },
+    {
+      "key": "avatar-contact",
+      "width": 512,
+      "height": 512,
+      "title": "contact"
+    },
+    {
+      "key": "avatar-content",
+      "width": 512,
+      "height": 512,
+      "title": "content"
+    },
+    {
+      "key": "avatar-clone",
+      "width": 512,
+      "height": 512,
+      "title": "clone"
+    }
+  ],
+  "errors": []
+}
