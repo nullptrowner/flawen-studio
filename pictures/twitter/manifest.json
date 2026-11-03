@@ -1,0 +1,16 @@
+{
+  "createdIn": "FLAWEN STUDIO import and UI export",
+  "images": [
+    {
+      "file": "flawen-x-banner.png",
+      "width": 1500,
+      "height": 500
+    },
+    {
+      "file": "flawen-x-avatar.png",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "errors": []
+}
